@@ -161,8 +161,8 @@ Et configurer les variables nécessaires pour Supabase côté frontend.
 
 ### 🔹 Pipeline backend
 
-![Pipeline Backend](docs/diagram.png)
-![alt text](<c:/Users/hp/OneDrive/Images/Captures d’écran/Capture d'écran 2026-01-06 110020.png>)
+![Pipeline Backend](Capture d'écran 2026-01-06 110020.png)
+
 ---
 
 ## 🚀 Améliorations futures
