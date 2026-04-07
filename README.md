@@ -161,7 +161,7 @@ Et configurer les variables nécessaires pour Supabase côté frontend.
 
 ### 🔹 Pipeline backend
 
-![Pipeline Backend](Capture d'écran 2026-01-06 110020.png)
+![Pipeline Backend](flux_séquentiels.png)
 
 ---
 
