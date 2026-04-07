@@ -1,6 +1,3 @@
-Voici un **README.md** complet que tu peux copier-coller pour ton projet 👇
-
----
 
 # 🚀 QueryMind – AI Question Answering Assistant
 
